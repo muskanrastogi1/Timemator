@@ -1,0 +1,77 @@
+.first{
+    font-size: 23px;
+    margin-left: 1vw;
+    color: white;
+    
+}
+.mac{
+    font-size: 23px;
+    color: rgb(93,119,134);
+}
+
+.second{
+    font-size: 55px;
+    color: white;
+  
+}
+.mac2{
+    color: rgb(30,230,164);
+    font-size: 55px;
+    
+   
+}
+.green{
+    color: green;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 55px;
+    text-align: center;
+
+}
+.button{
+    width:140px; 
+    height:6vh;
+    font-size: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transform: translateX(640%);
+    border-radius: 0.5vh;
+    border: 2px solid rgb(93,119,134);
+    background-color: rgb(28,47,64);
+    cursor: pointer;
+    color: white;
+    font-weight: 700;
+    
+}
+.button:hover{
+    border-color:white;
+
+}
+a{
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 17px;
+    margin-left: 42vw;
+    color: rgb(93,119,134);
+}
+a:hover {
+    color: white;
+    text-decoration: underline;
+}
+#wv{
+    margin-top: 12vh;
+    transform: translateX(410%);
+    font-size: 20px;
+    height: 7vh;
+}
+.btn2{
+    margin-left: 230%;
+    width:230px; 
+    height:7vh;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 0.5vh;
+    border: none;
+    background-color:rgb(243,0,86);
+    cursor: pointer;
+    color: white;
+    font-weight: 700;
+}
